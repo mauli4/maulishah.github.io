@@ -1,6 +1,8 @@
 layout: sidebar
 style: light
 
+port: 4040
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -17,10 +19,7 @@ defaults:
 
 projects:
   sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 18
+  limit: 36
   exclude:
     archived: true
     forks: true
@@ -31,17 +30,13 @@ projects:
       - fyyur
       - eleventy-sandbox
       - brennanbrown.github.io
-    # - repo-name
+# topics:
+#   - name: CSS
+#     web_url: https://github.com/topics/css
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+#   - name: Web design
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-
-port: 4040
+#   - name: Sass
+#     web_url: https://github.com/topics/sass
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
