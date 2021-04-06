@@ -11,7 +11,7 @@
     <div class="my-6">
       {% include about.html %}
     </div>
-    
+
     <div class="my-6">
       {% include projects.html %}
     </div>
@@ -30,11 +30,11 @@
   </div>
 {% else %}
   <a href="https://brennanbrown.ca/">
-    <div class="nav navbar text-center border-bottom py-1" style="background: conic-gradient(from -90deg at 50% -25%, blue, blueviolet)">
-      <div class="h2 text-white"><u>Looking for my website? Click here!</u></div>
+    <div class="nav navbar text-center border-bottom web-notice py-1" style="background: conic-gradient(from -90deg at 50% -25%, blue, blueviolet)">
+      <div class="h3 text-white"><u>Looking for my portfolio? Click here!</u></div>
     </div>
   </a>
-  <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
+  <div class="d-md-flex min-height-full pt-3 {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
     <div class="flex-self-stretch {% if site.style == 'dark' %}bg-gray-dark{% else %}border-md-right border-gray-light bg-white{% endif %} col-md-5 col-lg-4 col-xl-3 px-4 px-md-6 px-lg-7 py-6">
       {% include masthead.html metadata=true %}
     </div>
@@ -46,16 +46,18 @@
             {{ content }}
           </div>
         {% endunless %}
+        
+        {% include about.html %}
 
         {% include projects.html %}
 
-        {% if site.topics %}
+        <!-- {% if site.topics %}
           {% include interests.html %}
         {% endif %}
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
-        {% endunless %}
+        {% endunless %} -->
       </div>
     </div>
   </div>
