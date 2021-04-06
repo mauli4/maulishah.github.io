@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 36
+  limit: 18
   exclude:
     archived: true
     forks: true
@@ -30,6 +30,7 @@ projects:
       - brennanbrown
       - fyyur
       - eleventy-sandbox
+      - brennanbrown.github.io
     # - repo-name
 
 topics:
