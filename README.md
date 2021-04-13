@@ -1,7 +1,7 @@
-<h3 align="center">BrennanBrown.Github.IO</h3>
+<h3 align="center">brennanbrown.github.io</h3>
 
   <p align="center">
-    Just a sort of metasite to show off all of my information that's scattered across the interwebs!
+    Just a sort of metasite to show off my GitHub and all of my socials that's scattered across the interwebs!
     <br />
     <a href="https://github.com/brennanbrown/brennanbrown.github.io"><strong>Explore the docs »</strong></a>
     <br />
