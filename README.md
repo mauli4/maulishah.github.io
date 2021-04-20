@@ -21,7 +21,6 @@
 <a href="https://github.com/brennanbrown/brennanbrown.github.io/search?l=html"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brennanbrown/brennanbrown.github.io"></a>
 <a href="https://github.com/brennanbrown/brennanbrown.github.io/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/brennanbrown/brennanbrown.github.io"></a>
 <a href="https://github.com/brennanbrown/brennanbrown.github.io/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brennanbrown/brennanbrown.github.io"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fbrennanbrown%2Fbrennanbrown.github.io?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrennanbrown%2Fbrennanbrown.github.io.svg?type=shield"/></a>
 <a href="https://github.com/brennanbrown/brennanbrown.github.io/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/brennanbrown/brennanbrown.github.io"></a>
 <a href="https://brennanbrown.github.io"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fbrennanbrown.github.io.netlify.app"></a>
 <br />
