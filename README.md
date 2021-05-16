@@ -42,6 +42,7 @@ Here's a list of projects that are being hosted here via [GitHub Pages](https://
   - **Sortable Tables** <https://brennanbrown.github.io/javascript-projects/sortable-tables>: A portfolio piece that addresses some of the common interview questions on arrays, sorting algorithms, and optimizing code performance.
   - **Flashcard Game** - <https://brennanbrown.github.io/javascript-projects/flashcards>: Explores some more advanced JavaScript concepts—including how to manage propagation and binding—with interactive card games.
   - **Rebound Game** - <https://brennanbrown.github.io/javascript-projects/rebound-game>: Explores game creation with JavaScript as a way of enhancing skills in all areas of development.
+- **Writings** - <https://brennanbrown.github.io/old-blog>: My first attempt at a personal blog, for collections of essays I've written. Powered by Jekyll. 
 
 ## Installation
 
