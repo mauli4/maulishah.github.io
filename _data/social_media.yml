@@ -20,7 +20,7 @@
   icon: <i class="fab fa-keybase"></i>
 
 - name: LinkedIn
-  url: https://www.linkedin.com/in/brennankbrown
+  url: https://www.linkedin.com/in/bkennethbrown
   share_url_prefix: https://www.linkedin.com/shareArticle?mini=true&url=
   icon: <i class="fab fa-linkedin"></i>
 
@@ -59,7 +59,7 @@
 #   icon: <i class="fab fa-facebook-square"></i>
 
 - name: Instagram
-  url: https://www.instagram.com/
+  url: https://www.instagram.com/bkennethbrown
   icon: <i class="fab fa-instagram-square"></i>
 
 - name: Mastodon
@@ -91,6 +91,7 @@
 - name: Website
   url: https://brennanbrown.ca/
   icon: <i class="fas fa-globe"></i>
+  
 # - name: YouTube
 #   url: https://www.youtube.com/
 #   icon: <i class="fab fa-youtube-square"></i>
